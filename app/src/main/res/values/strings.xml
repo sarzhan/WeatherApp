@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="hint_input_city">Введите название города на английском</string>
+    <string name="know_city">Показать погоду</string>
+</resources>
